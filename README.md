@@ -9,5 +9,7 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 |  [Lung](https://www.cancerimagingarchive.net/collection/lidc-idri/) (✔️)  | CT           | Tumor | 1018                       |     coming soon       | coming soon|coming soon|
 |  Esophageal (✖️)  | CT           | Tumor and Lymph  | > 400                        |     coming soon       | coming soon|coming soon|
 |  Liver (✖️)  | CT           | Lesion  | >1300                        |     coming soon       | coming soon|coming soon|
+|  Kidney (✖️)  | CT           | Lesion  | >200                        |     coming soon       | coming soon|coming soon|
 |  Breast (✖️)  | CT           | Clinical Target Volume  | >2300                        |     coming soon       | coming soon|coming soon|
 |  Stomach (✖️)  | CT           | Gastric Cancer   | > 500                       |     coming soon       | coming soon|coming soon|
+|  Cervical (✖️)  | CT           | Tumor and Lymph   | > 400                       |     coming soon       | coming soon|coming soon|
