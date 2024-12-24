@@ -4,7 +4,7 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 | **Site (Public)**        | **Modality** | **Target**       | **Total Number (3D Scans)** | **Performance (DSC)** | **Pre-trained model link** | **Reference** | 
 |-----------------|--------------|------------------|-------------------------------|-----------------------|-------------------------------|-----------------------|
 |  Head and Neck (✖️)  | CT           | 43 Organs        | >3400                       | 0.83                  |coming soon | coming soon|
-|  Head and Neck (✖️)  | CT           | Pan-Tumor and Lymph  | >6800                        |     0.72       | coming soon|coming soon|
+|  Head and Neck* (✖️)  | CT           | Pan-Tumor and Lymph  | >6800                        |     0.72       | coming soon|coming soon|
 |  Head and Neck (✖️)  | MR           | Nasopharyngeal Carcinoma Tumor  | >1000                        |     0.89       | [model/nnunetv1](https://drive.google.com/file/d/1gweae9uHaCRno1zKw_fhksYr_VDUaWg2/view?usp=drive_link)|[RobustNPC](https://github.com/Luoxd1996/RobustNPC)|
 |  [Lung](https://www.cancerimagingarchive.net/collection/lidc-idri/) (✔️)  | CT           | Tumor | 1018                       |     coming soon       | coming soon|coming soon|
 |  Esophageal (✖️)  | CT           | Tumor and Lymph  | > 400                        |     coming soon       | coming soon|coming soon|
@@ -13,3 +13,4 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 |  Breast (✖️)  | CT           | Clinical Target Volume  | >2300                        |     coming soon       | coming soon|coming soon|
 |  Stomach (✖️)  | CT           | Gastric Cancer   | > 500                       |     coming soon       | coming soon|coming soon|
 |  Cervical (✖️)  | CT           | Tumor and Lymph   | > 400                       |     coming soon       | coming soon|coming soon|
+\* means we re-labeled the public dataset [RADCURE](https://www.cancerimagingarchive.net/collection/radcure) with all visible lymph nodes.
