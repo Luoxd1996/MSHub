@@ -5,6 +5,7 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 |-----------------|--------------|------------------|-------------------------------|-----------------------|-------------------------------|-----------------------|
 |  Head and Neck (✖️)  | CT           | 43 Organs        | >3400                       | 0.83                  |coming soon | coming soon|
 |  Head and Neck* (✖️)  | CT           | Pan-Tumor and Lymph  | >6800                        |     0.72       | coming soon|coming soon|
+|  Head and Neck (✖️)  | MRI           | Pan-Tumor and Lymph  | >2000                        |     coming soon       | coming soon|coming soon|
 |  Head and Neck (✖️)  | MR           | Nasopharyngeal Carcinoma Tumor  | >1000                        |     0.89       | [nnunetv1](https://drive.google.com/file/d/1gweae9uHaCRno1zKw_fhksYr_VDUaWg2/view?usp=drive_link)&[example](https://github.com/Luoxd1996/RobustNPC)|[GreenJournal](https://www.sciencedirect.com/science/article/pii/S016781402300018X)&[RedJournal](https://www.sciencedirect.com/science/article/pii/S0360301624036447)|
 |  [Lung](https://www.cancerimagingarchive.net/collection/lidc-idri/) (✔️)  | CT           | Tumor | 1018                       |     coming soon       | coming soon|coming soon|
 |  Esophageal (✖️)  | CT           | Tumor and Lymph  | > 400                        |     coming soon       | coming soon|coming soon|
