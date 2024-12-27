@@ -16,6 +16,7 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 |  Cervical (✖️)  | CT           | Tumor and Lymph   | > 400                       |     0.61       | [nnunetv2](https://drive.google.com/drive/folders/1t9go2EpuvWM4DZEfDG8d8n579w7yiPT2?usp=sharing)|coming soon|
 
 \* means this dataset includes the public dataset [RADCURE](https://www.cancerimagingarchive.net/collection/radcure), where we re-delineated this dataset with all visible lymph nodes manually.
+
 \** The intensity of the input CT volumes was truncated between -125 and 275 Hounsfield units
 
 ## Acknowledgment and Statement
