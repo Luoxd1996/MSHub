@@ -16,3 +16,9 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 |  Cervical (✖️)  | CT           | Tumor and Lymph   | > 400                       |     0.61       | [nnunetv2](https://drive.google.com/drive/folders/1t9go2EpuvWM4DZEfDG8d8n579w7yiPT2?usp=sharing)|coming soon|
 
 \* means this dataset includes the public dataset [RADCURE](https://www.cancerimagingarchive.net/collection/radcure), where we re-delineated this dataset with all visible lymph nodes manually.
+
+## Acknowledgment and Statement
+* We are optimising this project and improving these models' performance with scaling annotation data for public research, no second development and commercial use.
+* Welcome to contribute your pre-trained model to this project, feel free to push your project link and reference papers.
+* If you want to provide some computation source or data to enhance this project, please reach out to [Xiangde](https://luoxd1996.github.io) anytime.
+* This project will be maintained by Xiangde Luo (Stanford), Zihao Luo (UESTC), He Li (UESTC), and Wenjun Liao (SCH). More details about this project will be posted later.
