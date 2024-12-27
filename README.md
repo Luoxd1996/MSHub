@@ -17,7 +17,7 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 
 \* means this dataset includes the public dataset [RADCURE](https://www.cancerimagingarchive.net/collection/radcure), where we re-delineated this dataset with all visible lymph nodes manually.
 
-\** The intensity of the input CT volumes was truncated between -125 and 275 Hounsfield units
+\** The intensity of the input CT volumes was truncated between -125 and 275 Hounsfield units.
 
 ## Acknowledgment and Statement
 * We are optimising this project and improving these models' performance with scaling annotation data for public research, no second development and commercial use.
