@@ -20,7 +20,7 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 \** The intensity of the input CT volumes was truncated between -125 and 275 Hounsfield units.
 
 ## Acknowledgment and Statement
-* We are optimising this project and improving these models' performance with scaling annotation data for public research, no second development and commercial use.
-* Welcome to contribute your pre-trained model to this project, feel free to push your project link and reference papers.
-* If you want to provide some computation source or data to enhance this project, please reach out to [Xiangde](https://luoxd1996.github.io) anytime.
+* We are optimising this project and improving these models' performance with scaling annotation data for public research; all pre-trained models are conditionally accessed during the development stage.
+* Welcome to contributing your pre-trained model to this project. Feel free to push your project link and reference papers.
+* If you want to provide some computation source or data to enhance this project, please contact [Xiangde](https://luoxd1996.github.io) anytime.
 * This project will be maintained by Xiangde Luo (Stanford), Zihao Luo (UESTC), He Li (UESTC), and Wenjun Liao (SCH). More details about this project will be posted later.
