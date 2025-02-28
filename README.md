@@ -22,5 +22,5 @@ MSHub is a comprehensive repository of state-of-the-art medical image segmentati
 ## Acknowledgment and Statement
 * We are optimising this project and improving these models' performance by scaling high-quality annotations for public research; all pre-trained models are conditionally accessed during the development stage.
 * Welcome to contributing your pre-trained model to this project. You can go ahead and push your project link and reference papers.
-* If you want to provide some computation source or data to enhance this project (we just have a GTX 4090 for model development.), please contact [Xiangde](https://luoxd1996.github.io) anytime.
+* If you want to provide some computation source or data to enhance this project (we just have a RTX 4090 for model development.), please contact [Xiangde](https://luoxd1996.github.io) anytime.
 * This project will be maintained by Xiangde Luo (Stanford), Zihao Luo (UESTC), He Li (UESTC), and Wenjun Liao (SCH). More details about this project will be posted later.
